@@ -38,3 +38,7 @@ Feel free to reach out to me for collaborations, feedback, or any Flutter-relate
 - 📧 Email: pruthvi2602@example.com
 - 🔗 LinkedIn: [Pruthvi LinkedIn](https://www.linkedin.com/in/pruthvi/)
 - 💻 Personal Website: [Pruthvi's Portfolio](https://pruthvi2602.com)
+
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align="left"/>
+</a>
